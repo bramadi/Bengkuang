@@ -1,0 +1,6 @@
+#how to install
+(base) brama@brama-A58ML2:~$ cd MicFunPred/
+(base) brama@brama-A58ML2:~/MicFunPred$ python setup.py install
+(base) brama@brama-A58ML2:~/MicFunPred$ sudo apt-get install ncbi-blast+
+(base) brama@brama-A58ML2:~/MicFunPred$ sudo apt-get install glpk-utils
+(base) brama@brama-A58ML2:~/MicFunPred$ MicFunPred_run_pipeline.py -i test_data/test_counts.tsv -r test_data/test.fasta -o test_data/micfunpred_out --verbose
