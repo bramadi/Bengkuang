@@ -1,4 +1,4 @@
-#how to install
+#how to install & run MicFunPred on Linux Mint
 (base) brama@brama-A58ML2:~$ cd MicFunPred/
 (base) brama@brama-A58ML2:~/MicFunPred$ python setup.py install
 (base) brama@brama-A58ML2:~/MicFunPred$ sudo apt-get install ncbi-blast+
