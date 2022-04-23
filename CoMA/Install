@@ -1,5 +1,0 @@
-#Download the CoMA installer (CoMA_2.0_installer.sh) from the CoMA webpage (https://www.uibk.ac.at/microbiology/services/coma.html).
-brama@brama-A58ML2:~$ cd Downloads
-#Execute the installer
-brama@brama-A58ML2:~/Downloads$ sudo bash CoMA_2.0_installer.sh
-brama@brama-A58ML2:~/Downloads/lotus_pipeline$ wget http://www.drive5.com/downloads/usearch11.0.667_i86linux32.gz
